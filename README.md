@@ -1,6 +1,3 @@
-
-<html>
-  
 <body>
   <h1>Essential Soccer Training & Drills</h1>
   <p>Welcome to the ultimate soccer training resource! Whether you're working on dribbling, shooting, or passing, these drills will elevate your game.</p>
@@ -19,7 +16,7 @@
   <p>Looking for professional training plans and official rules? Check out <a href="https://www.soccerdrive.com/" target="_blank" rel="noopener noreferrer">Soccer Coaching Website.</p>
 
 </body>
-</html>
+
 
 
 
