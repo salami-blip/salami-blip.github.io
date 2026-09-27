@@ -1,8 +1,7 @@
-# salami-blip.github.io
+#salami-blip.github.io
 <!DOCTYPE html>
 <html>
 
-<head>
 <title> Soccer Training Guide </title>
 </head>
 
