@@ -17,7 +17,7 @@
   <p>Looking for professional training plans and official rules? Check out <a href="https://www.soccerdrive.com/" target="_blank" rel="noopener noreferrer">Soccer Coaching Website</a>.</p>
     
 </body>
-</body>html>
+</html>
 
 
 
