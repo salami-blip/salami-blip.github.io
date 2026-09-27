@@ -21,7 +21,7 @@ h2 {color:black;}
 <body>
   <h1>Essential Soccer Training & Drills</h1>
   <p>Welcome to the ultimate soccer training resource! Whether you're working on dribbling, shooting, or passing, these drills will elevate your game.</p>
-  <img src="[[https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=800&q=80](https://cdn.pixabay.com/photo/2014/10/14/20/24/ball-488718_1280.jpg)](https://cdn.create.vista.com/api/media/small/150618060/stock-photo-soccer-ball-on-grass)" alt="Soccer Ball on Pitch">
+  <img src="https://media.istockphoto.com/id/2209139345/photo/football-on-grass-classic-soccer-ball-on-green-field-game-ready-atmosphere-close-up-of.jpg?s=612x612&w=0&k=20&c=Q5GEuvDB2X3STpbN6xyYap1Vi_kmMUamnwheN4vgY1A=" alt="Soccer Ball on Pitch">
   
   <h2>Key Daily Drills</h2>
   <ul>
