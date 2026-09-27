@@ -1,22 +1,5 @@
-#salami-blip.github.io
-<!DOCTYPE html>
+
 <html>
-  
-<head>
-<title> Soccer Training Guide </title>
-
-<style>
-h1 {color:black;}
-</style>
-
-<style>
-body {background:black;}
-</style>
-
-<style>
-h2 {color:black;}
-</style>
-</head>
   
 <body>
   <h1>Essential Soccer Training & Drills</h1>
