@@ -1,3 +1,4 @@
+<html>
 <body>
   <h1>Essential Soccer Training & Drills</h1>
   <p>Welcome to the ultimate soccer training resource! Whether you're working on dribbling, shooting, or passing, these drills will elevate your game.</p>
@@ -13,10 +14,10 @@
   <img src="https://media.istockphoto.com/id/1272269793/photo/silhouette-action-sport.jpg?s=612x612&w=0&k=20&c=aah2jzqNEtOBlZEBVLnMDEHUmWzKSE8VgyBb5wOHzPI=" alt="Person Kicking Soccer Ball">
 
   <h3>External Resources</h3
-  <p>Looking for professional training plans and official rules? Check out <a href="https://www.soccerdrive.com/" target="_blank" rel="noopener noreferrer">Soccer Coaching Website.</p>
-
+  <p>Looking for professional training plans and official rules? Check out <a href="https://www.soccerdrive.com/" target="_blank" rel="noopener noreferrer">Soccer Coaching Website</a>.</p>
+    
 </body>
-
+</body>html>
 
 
 
