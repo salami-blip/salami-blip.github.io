@@ -3,7 +3,7 @@
 <html>
 
 <head>
-<title> Rock Paper Scissors </title>
+<title> Soccer Training Guide </title>
 </head>
 
 <style>
@@ -18,18 +18,22 @@ body {background:black;}
 h2 {color:black;}
 </style>
 
-
 <body>
-<h1>The Alien </h1>
-<p> Victor Wembanyama </p>
-<p> Victor Wembanyama is a professional basketball player from France. He plays in the NBA for the San Antonio Spurs at the center position, and is most notable for being 7 feet 4 inches tall. Fans know him as the Alien for his irregular combination of height and dexterity, and he is known as one of the greatest prospects basketball has ever seen. He is my favorite player at the current moment, and I hope to see great things from him. </p>
+  <h1>Essential Soccer Training & Drills</h1>
+  <p>Welcome to the ultimate soccer training resource! Whether you're working on dribbling, shooting, or passing, these drills will elevate your game.</p>
+  <img src="[https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=800&q=80](https://cdn.pixabay.com/photo/2014/10/14/20/24/ball-488718_1280.jpg)" alt="Soccer Ball on Pitch">
+  
+  <h2>Key Daily Drills</h2>
+  <ul>
+    <li><strong>Cone Dribbling:</strong> Set up 5-10 cones in a line. Weave through using both the inside and outside of both feet.</li>
+    <li><strong>Wall Passing:</strong> Spend 15 minutes practicing one-touch and two-touch passing against a solid wall.</li>
+    <li><strong>Juggling:</strong> Aim for 100 consecutive juggles/juggling for 2 minutes straight to build fine touch and control.</li>
+  </ul>
 
-<p> Victor grew up in a family that breathed basketball, where he learned to love the game. Before moving to the United States, Wembanyama honed his craft in the French professional leagues with clubs including Nanterre 92, ASVEL, and Metropolitans 92. He earned numerous individual awards in France, before carrying that momentum into his rookie campaign in San Antonio where he won the unanimous 2024 Rookie of the Year award and earned All-Defensive First Team honors. Victor is looking to create an illustrious career that earns him a shot into the Hall of Fame. </p>
+  <img src="https://media.istockphoto.com/id/1272269793/photo/silhouette-action-sport.jpg?s=612x612&w=0&k=20&c=aah2jzqNEtOBlZEBVLnMDEHUmWzKSE8VgyBb5wOHzPI=" alt="Person Kicking Soccer Ball">
 
-<h2> Current Day </h2>
-<p> Victor Wembanyama has just come off an amazing season in his 2025-2026 campaign, where he won the Defensive Player of the Year Award and reached the NBA Finals. Although he lost to the New York Knicks, Wembanyama showed time and time again why he deserves a shot to win. He also placed silver at the Olympics, where he represented France and was their leader, even at his young age. Wembanyama is looking to produce another amazing year, and possibly become the league's most valuable player. </p>
-
-<img src="https://media.giphy.com/media/tmTBeLXc6AXGXrtgkX/giphy.gif" alt="Wembanyama Dunking" width="500"> 
+  <h3>External Resources</h3
+  <p>Looking for professional training plans and official rules? Check out <a href="https://www.soccerdrive.com/" target="_blank" rel="noopener noreferrer">Soccer Coaching Website/a>.</p>
 
 </body>
 </html>
